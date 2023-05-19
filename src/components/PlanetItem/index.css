@@ -1,0 +1,27 @@
+.planet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #05acff;
+  font-weight: bold;
+  text-align: center;
+}
+.image {
+  height: 200px;
+  width: 200px;
+}
+.name {
+  font-size: 27px;
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-weight: bold;
+}
+.description {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #f1f5f9;
+}
